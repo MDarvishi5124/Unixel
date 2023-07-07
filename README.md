@@ -7,7 +7,12 @@ Unixel tries to take inspiration from the Arabic script and has largely forgotte
 یونیکسل یک تایپ‎‌فیس پیکسلی است که با الهام زیادی از روی فونت unifont طراحی شده است. با اینکه فونت یونیکسل، یک فونت پیکسلی است، اما در بخش طراحی به زیبایی و خوانایی آن توجه ویژه ای شده است.
 یونیکسل سعی دارد از خوشنویسی عربی الهام بگیرد و ساختار هندسی خود را تا حد زیادی فراموش کرده است.
 
-<a id="download" href=""><button style="background-color: #00cc99; color:#f0f0f0;font-size: 1.2rem; border-radius: 0px; border: 0px; cursor: pointer; padding: 10px;">
+
+Unixel is currently empty. This means that other features like proper Arabic diacritic will be available in future updates. But now the font is suitable for normal use.
+
+یونیکسل در حال حاضر دست‌خالیست؛ به معنای آنکه قابلیت های دیگر همچون اِعراب‌گذاری مناسب در بروزرسانی های آینده در دسترس قرار خواهد گرفت. اما اکنون فونت برای استفاده های عادی مناسب است.
+
+
+<a id="download" href="">
 بارگیری فونت
-</button>
 </a>
