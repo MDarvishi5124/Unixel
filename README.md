@@ -1,54 +1,12 @@
-<a href="#style-set">استایل ست ها </a> <br />
-<a href="#download">بارگیری قلم</a>
+# Unixel | یونیکسل
+![example-text]
+Unixel is a pixel font inspired by unifont. Although unixel font is a pixel font, special attention has been paid to its beauty and readability in the design department.
+Unixel tries to take inspiration from the Arabic script and has largely forgotten the geometric structure.
 
-# Rooyin | رویین
-![into](https://user-images.githubusercontent.com/100155793/222923403-88ce8edd-f7e5-4454-bd07-7913bcd1f41b.png)
+یونیکسل یک تایپ‎‌فیس پیکسلی است که با الهام زیادی از روی فونت unifont طراحی شده است. با اینکه فونت یونیکسل، یک فونت پیکسلی است، اما در بخش طراحی به زیبایی و خوانایی آن توجه ویژه ای شده است.
+یونیکسل سعی دارد از خوشنویسی عربی الهام بگیرد و ساختار هندسی خود را تا حد زیادی فراموش کرده است.
 
-رویین یک تایپ فیس پیکسلی است که مجموعاً در چهار حالت مختلف انگلیسی - عربی استاندارد و یک نسخه متغیر (Pixelness:pixl / Dot Style:dtys) ساخته شده است. با اینکه فونت رویین ، یک فونت پیکسلی است ، اما طراحی ساده و خوانایی دارد.
-
-## مقایسه فونت رویین با فونت های مشابه
-![rooyin-vs-other-fonts](https://user-images.githubusercontent.com/100155793/222923411-aa24e02c-e659-49d8-99a8-a74c81b4d2dd.png)
-
-![diacritic](https://user-images.githubusercontent.com/100155793/222923419-c203b579-d4b5-433b-8d82-5fa77b089415.png)
-فونت رویین از ساختار محکم تر و تمیز تری برخوردار است و شامل تنظیم محل اِعراب گذاری و کرنینگ نیز هست 
-
-## Pixelness | پیکسلی شدن
-![pixelness](https://user-images.githubusercontent.com/100155793/222923427-8936e629-a9b0-4094-9dc7-e69fc40ba933.png)
-در رویین دو محور متغیر وجود دارد که یکی از آنها محور Pixelness:pixl است. این محور فونت را به سمت پیکسلی شدن و چارچوب های خاص نزدیک میکند. pixelness0 زیباترین حالت و pixelness 10 قائده مند است.
-
-## Dot Style | استایل نقطه ها
-![dot-style](https://user-images.githubusercontent.com/100155793/222923449-502acf87-e748-47e9-90a3-b72de30175a1.png)
-
-یکی دیگر از محور های متغیر Dot Style:dsty است. با جابه‌جا کردن این محور ، نوع و حالت نقاط تغییر خواهد کرد.
-
-<h1 id="style-set" > Stylistic sets | استایل ست ها</h1>
-
-![styletic-set](https://user-images.githubusercontent.com/100155793/222923463-4f7575ce-44dc-464b-bc77-7f36591e09d0.png)
-
-استایل ست ۱ : فارسی کردن تمام اعداد عربی و انگلیسی
-
-استایل ست ۲ : مونو اسپیس تمام اعداد
-
-استایل ست ۳ : مونو اسپیس و فارسی کردن تمام اعداد
-
-استایل ست ۴ : جایگزین اختیاری برای ترکیباتی همچون : "سی" "صی" "ـبی"
-
-استایل ست ۵ : جایگزین اختیاری برای ترکیباتی همچون : "سن" "صن" "ـبن"
-
-استایل ست ۶ : جایگزین اختیاری برای ترکیباتی همچون : "سر" "صز" "ـبژ"
-
-استایل ست ۷ : جایگزین اختیاری برای حروف : "ک" "گ"
-
-استایل ست ۸ : جایگزین اختیاری برای حرف : "ی"
-
-استایل ست ۹ : جایگزین اختیاری برای حرف : "م"
-
-استایل ست ۱۰ : جایگزین اختیاری برای حرف : "ه"
-
-استایل ست ۱۱ : جایگزین اختیاری برای حرف : "ـعـ ـع"
-
-## بروزرسانی
-رفع مشکلات گزارش شده
-در نسخه بعدی فونت ، محور وزن اضافه میشود
-
-<a id="download" href="https://github.com/modafe5124/Rooyin/archive/refs/tags/v0.9-beta.zip">بارگیری فونت</a>
+<a id="download" href=""><button style="background-color: #00cc99; color:#f0f0f0;font-size: 1.2rem; border-radius: 0px; border: 0px; cursor: pointer; padding: 10px;">
+بارگیری فونت
+</button>
+</a>
