@@ -12,6 +12,6 @@ Unixel is currently empty. This means that other features like proper Arabic dia
 یونیکسل در حال حاضر دست‌خالیست؛ به معنای آنکه قابلیت های دیگر همچون اِعراب‌گذاری مناسب در بروزرسانی های آینده در دسترس قرار خواهد گرفت. اما اکنون فونت برای استفاده های عادی مناسب است.
 
 
-<a id="download" href="">
+<a id="download" href="https://github.com/MDarvishi5124/Unixel/releases/tag/1.0">
 بارگیری فونت
 </a>
