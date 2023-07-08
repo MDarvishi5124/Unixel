@@ -1,6 +1,5 @@
 # Unixel | یونیکسل
-![example-text](https://github.com/MDarvishi5124/unixel/assets/100155793/1f7693df-3162-4025-9b71-6e78c17eba1b)
-
+![example-text](https://github.com/MDarvishi5124/Unixel/assets/100155793/0575b82d-84c6-43d6-b90b-8507da3c25e2)
 Unixel is a pixel font inspired by unifont. Although unixel font is a pixel font, special attention has been paid to its beauty and readability in the design department.
 Unixel tries to take inspiration from the Arabic script and has largely forgotten the geometric structure.
 
