@@ -15,3 +15,6 @@ Unixel is currently empty. This means that other features like proper Arabic dia
 <a id="download" href="https://github.com/MDarvishi5124/Unixel/releases/tag/1.0">
 بارگیری فونت
 </a>
+
+## کار هایی که شما با یونیکسل انجام دادید | What you did with Unixel
+!(https://github.com/MDarvishi5124/Unixel/assets/100155793/3a447c7a-b734-4e23-9b1e-116d18a808be)
